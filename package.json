@@ -1,18 +1,16 @@
 {
-    "name": "jw-react-npm-boilerplate",
-    "version": "1.0.1",
-    "description": "React Boilerplate Component for npm",
-    "homepage": "http://jasonwatmore.com/post/2018/04/14/react-npm-how-to-publish-a-react-component-to-npm",
+    "name": "mjp-react-components",
+    "version": "1.0.0",
+    "description": "Shared React components",
     "keywords": [
         "React",
-        "Boilerplate",
         "npm"
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/cornflourblue/jw-react-npm-boilerplate"
+        "url": "https://github.com/mpedersen15/mjp-react-components"
     },
-    "main": "./lib/BoilerplateComponent.js",
+    "main": "./lib/Button.js",
     "license": "MIT",
     "scripts": {
         "build": "webpack"
